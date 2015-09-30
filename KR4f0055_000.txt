@@ -1,0 +1,30 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 鮚埼亭詩集
+#+DATE: 2015-09-11 18:02:54.164665
+#+PROPERTY: ID KR4f0055
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB04n0571-000鮚埼亭詩集-目録.
+<pb:KR4f0055_SBCK_000-1a>¶
+結埼亭詩集目錄¶
+　卷一¶
+　　祥琴集　句餘唱和集¶
+　卷二¶
+　　虬&KR0487;集　杪秋江行集¶
+卷三¶
+　　七峯草堂唱和集　五甲集¶
+　卷四¶
+　　抄詩集　百五春光集¶
+卷五¶
+<pb:KR4f0055_SBCK_000-1b>¶
+　　吳船集　韓江唱和苐二集¶
+　卷六¶
+　　偸兒棄餘集¶
+　卷七¶
+　　漫興初集　漫興二集¶
+　卷八¶
+　　望歲集　采蕺齊集　西笑集¶
+　卷九¶
+　　雙韮山房夏課　帖&KR0052;餘事集　病月集¶
+　卷十　度嶺集¶
